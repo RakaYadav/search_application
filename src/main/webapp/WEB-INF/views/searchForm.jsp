@@ -36,7 +36,8 @@
 						<img style="width: 100px"
 							src="<c:url value="/resources/images/search-engine-1.png"/>" />
 						<hr>
-						<h1 class="mb-2">Search Here !!</h1>
+						<h1>this is home page</h1>
+						<h1 class="mb-2">Search Here  !!</h1>
 					</div>
 					<!-- Search Form -->
 					<div class="container text-center mt-3">
